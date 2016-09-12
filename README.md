@@ -1,6 +1,7 @@
 ### Chapter 4 – day 2
 
-The function reversed() will reverse a range. reversed(range(2,8)) is 7,6,5,4,3,2.
+reversed() is a built in function that will reverse a range. reversed(range(2,8)) is 7,6,5,4,3,2.
+
 #### 1. Write a procedure that will print out all of the positive integers less than a parameter n in decreasing order.
 ```
 def less(n)
