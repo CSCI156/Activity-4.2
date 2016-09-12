@@ -23,7 +23,7 @@ Output: 8,7,6,5
 
 #### 3. Write a procedure that will take a parameter m and print out the first m reversed lists. 
 ```
-def reversed(m)
+def triangle(m)
    <stuff>
 
 reversed(5)
